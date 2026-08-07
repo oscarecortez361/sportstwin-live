@@ -1,0 +1,20 @@
+{
+  "command_hub": "mini-pc",
+  "displays": [
+    {"id": "tv1", "role": "primary"},
+    {"id": "tv2", "role": "secondary"},
+    {"id": "tv3", "role": "secondary"},
+    {"id": "tv4", "role": "future"}
+  ],
+  "multiview": {
+    "fight_pass_supported": true,
+    "iptv_supported": true,
+    "max_tiles_per_supported_display": 4
+  },
+  "reaction_engine": {
+    "win_mode": true,
+    "loss_mode": true,
+    "rival_mode": true,
+    "championship_mode": true
+  }
+}
